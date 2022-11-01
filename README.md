@@ -1,8 +1,10 @@
 ## Darwin system
 
-`nix-darwin` + `home-manager` based, declarative `macOS` configuration. Early development. Poduction use is discouraged.
+`nix-darwin` + `home-manager` based, declarative `macOS` configuration. Early development. Poduction use is discouraged. 
 
-**Apple Silicon** is first-class citizen. Thought Intel should in theory work, it's out of the scope. PRs are welcome, however.
+### Platforms
+
+`Apple Silicon` is first-class citizen. Intel would be likely broken out of the box, and there are no immediate plans to fix it. PRs are welcome, however.
 
 ### Misc
 
