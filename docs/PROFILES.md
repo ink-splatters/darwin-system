@@ -39,7 +39,7 @@ could be fully recovered to working state, by decrypting the FileVault-ed volume
 finally issuing `resetpassword` to re-activate the system which would properly sign/HMAC all the related stuff / restore all the broken bits
 of trusted boot chain.
 
-**Do Turn the FileVault on. Always. It's not only secures your data**
+**Do Turn the FileVault on. Always. It doesn't only secure your data**
 
 
 
