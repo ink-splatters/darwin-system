@@ -2,7 +2,7 @@
 
 `nix-darwin` + `home-manager` based, declarative `macOS` configuration. Early development. Poduction use is discouraged.
 
-If not stated otherwise, **Apple Silicon** platform should be always considered.
+If not stated otherwise, **Apple Silicon** platform should be always implied by default.
 
 ### Misc
 
