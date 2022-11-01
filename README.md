@@ -8,7 +8,7 @@
 
 Those are to be replaced by using corresponding _nix-darwin_ / _home-manager_ features.
 
-###### `WARNING`: profiles can be evil. Installing password restrictions payloads (especially system-wide) is strongly discouraged unless you know what you are doing. There is a danger of lockout which, in [catastrophical corner case](https://github.com/ink-splatters/darwin-system/new/master#the-corner-case), is permanent and implies irrecoverable data loss.
+###### `WARNING`: profiles can be evil. Installing password restrictions payloads (especially system-wide) is strongly discouraged unless you know what you are doing. There is a danger of lockout which, in [catastrophical corner case](docs/PROFILES.md#the-corner-case), is permanent and implies irrecoverable data loss.
 
 
 
