@@ -1,6 +1,6 @@
 ## Darwin system
 
-`nix-darwin` + `home-manager` based, declarative `macOS` configuration. Early development. Poduction use is discouraged. 
+`nix-darwin` + `home-manager` based declarative `macOS` configuration.
 
 ### Platforms
 
@@ -8,5 +8,5 @@
 
 ### Status
 
-TODO (awaiting start of implementation)
+TODO
 
